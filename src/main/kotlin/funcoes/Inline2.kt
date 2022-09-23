@@ -17,6 +17,6 @@ fun main() {
     }
     println(resultado1)
 
-    val resultado2 = executarComLog("somar", {somar(7, 5) })
+    //val resultado2 = executarComLog("somar", {somar(7, 5) })
     //println(resultado2)
 }
